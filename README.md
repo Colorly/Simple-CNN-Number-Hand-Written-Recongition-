@@ -77,7 +77,7 @@ Current bugs 5/10/2021
 
 <h1>Updates</h1>
 
-Update on 5/16/2012:
+Update on 5/16/2021:
 <ol>
 	<li> Added extra layer of Conv2D with the filter of 128.</li>
 	<li> Decreases 100% Failure Prediction on number 6,7,9 to a 90% Failure Prediction </li>
