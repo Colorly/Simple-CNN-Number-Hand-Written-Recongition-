@@ -4,7 +4,7 @@ A simple CNN network that predicts hand written numbers from paint.
 
 This is a Convolutional Neural Network that was made to recongise hand written numbers from paint. This was for my school project and something I built for fun using Python.
 
-**YOU WILL NEED A FOLLOWING THINGS TO USE THIS (**You can use Anaconda to install these libaries for python using the "pip install --" function.**):
+**YOU WILL NEED THE FOLLOWING THINGS TO USE THIS (**You can use Anaconda to install these libaries for python using the "pip install --" function.**):
 
 Python 3.8 
 Tensorflow and Tensorflow GPU (Tensorflow GPU needs a NVidia GPU to work)
