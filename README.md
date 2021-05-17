@@ -53,7 +53,7 @@ To install Tensorflow and Tensorflow GPU, Please refer to these links that would
 
 <h1> What you need to change </h1>
 
-**THE ONLY THING YOU NEED TO CHANGE IN THE CODE FOR IT TO RUN IS LINE 51:**
+**THE ONLY THING YOU NEED TO CHANGE IN THE CODE FOR IT TO RUN IS LINE 45**
 
 `img = cv.imread(fr'C:\Users\Eric\PycharmProjects\pythonProject2\test.model\{x}.png', cv.IMREAD_GRAYSCALE)`
 
@@ -63,7 +63,7 @@ For Example:
 
 `img = cv.imread(fr'C:\Users\DIRECTORYFILETOTHEIMAGES\{x}.png', cv.IMREAD_GRAYSCALE)`
 
-This allows the loop in line 50 to go through every single picture in the directory instead of manually running the code each time just to test one sample picture. 
+This allows the loop in line 44 to go through every single picture in the directory instead of manually running the code each time just to test one sample picture. 
 
 <h1> Known Bugs </h1>
 
