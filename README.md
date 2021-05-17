@@ -15,7 +15,7 @@ Matplotlib
 Pycharm as IDE
 
 
-**THE ONLY THING YOU NEED TO CHANGE IN THE CODE FOR IT TO RUN IS LINE 51:
+**THE ONLY THING YOU NEED TO CHANGE IN THE CODE FOR IT TO RUN IS LINE 51:**
 
 img = cv.imread(fr'C:\Users\Eric\PycharmProjects\pythonProject2\test.model\{x}.png', cv.IMREAD_GRAYSCALE)
 
